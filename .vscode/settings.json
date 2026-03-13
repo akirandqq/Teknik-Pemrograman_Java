@@ -1,3 +1,7 @@
 {
-  "java.project.referencedLibraries": ["lib/**/*.jar", "W2/EmployeeApp.jar"]
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "W2/EmployeeApp.jar",
+    "Week2/EmployeeApp.jar"
+  ]
 }
